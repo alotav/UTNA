@@ -1,4 +1,4 @@
-// REPASO JS CLASE 1
+// REPASO JS CLASE 1 .. 
 
 /*  tenemos 3 tipos de vatiables:
 
